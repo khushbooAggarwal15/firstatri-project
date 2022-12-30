@@ -1,0 +1,23 @@
+.p-Home.Flex1 {
+display: flex;
+justify-content: space-between;
+}
+.p-Home.Flex3 {
+display: flex;
+justify-content: space-between;
+}
+.p-Home.TextBox1 {
+;
+}
+.p-Home.TextBox2 {
+;
+}
+.p-Home.Flex2 {
+display: flex;
+}
+.p-Home.TextBox3 {
+;
+}
+.p-Home.TextBox4 {
+;
+}
